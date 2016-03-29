@@ -15,7 +15,7 @@
 
 - [アカウント編集](sub/EditAccount.md)
 - [テストの結果登録](sub/SubmitTestAnswer.md)
-- [テストの結果登録](sub/DownloadSheet.md)
+- [個票の作成](sub/DownloadSheet.md)
 
 ## 問い合わせ先
 
