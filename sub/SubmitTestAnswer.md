@@ -44,11 +44,11 @@
 
 #### 6. テスト結果の登録の完了
 
-![結果登録の完了](https://raw.githubusercontent.com/cist-kklab/8U_doc/master/img/SubmitTestAnswer006.png)
-
 テスト結果がシステムに登録されます。**登録するテスト結果の量により、待ち時間が異なります。画面を閉じずにお待ち下さい**。
 
 `テスト結果の登録が完了しました!` という枠が表示されたら、`登録を終了する` ボタンをクリックして下さい。
+
+![結果登録の完了](https://raw.githubusercontent.com/cist-kklab/8U_doc/master/img/SubmitTestAnswer006.png)
 
 ### 諸注意
 
