@@ -43,7 +43,7 @@
 
 クラス・学年・氏名など、印刷時の必要に応じて記入します。
 
-![テスト種別の選択](https://raw.githubusercontent.com/cist-kklab/8U_doc/master/img/DownloadSheet004.png)
+![テスト種別の選択](https://raw.githubusercontent.com/cist-kklab/8U_doc/master/img/DownloadSheet004a.png)
 
 #### 3.　印刷
 
@@ -55,7 +55,7 @@
 - **範囲を指定して個票を発行する：** 複数人分の個票を印刷（もしくはpdf化）します。 `個人データ` セルの F列（ID） の値を指定してください。
 - **すべての学生の個票を発行する：** `個人データ` セルの全員分の個票を印刷（もしくはpdf化）します。
 
-![テスト種別の選択](https://raw.githubusercontent.com/cist-kklab/8U_doc/master/img/DownloadSheet005.png)
+![テスト種別の選択](https://raw.githubusercontent.com/cist-kklab/8U_doc/master/img/DownloadSheet005a.png)
 
 ---
 
