@@ -50,10 +50,9 @@
 
 数学（数的指向、理系1・理系2・微積1・2）の場合は、テスト結果を下のエクセルシートで計算し、その計算結果を貼り付ける必要があります。
 
-https://github.com/cist-kklab/8U_doc/raw/master/mathSheet/math_placement_2016.xlsx
 - 2016年度
- - [プレイスメントテスト用計算シート](/raw/master/mathSheet/math_placement_2016.xlsx)
- - [到達度テスト用計算シート](/raw/master/mathSheet/matn_achievement_B_2016.xlsx)
+ - [プレイスメントテスト用計算シート](https://github.com/cist-kklab/8U_doc/raw/master/mathSheet/math_placement_2016.xlsx)
+ - [到達度テスト用計算シート](https://github.com/cist-kklab/8U_doc/raw/master/mathSheet/matn_achievement_B_2016.xlsx)
  - 黄色のシート部分に計算された内容を、テスト結果の登録用シートに**値をペースト**で貼り付けてください。
 
 ### 学生の結果登録
