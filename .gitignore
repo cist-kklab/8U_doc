@@ -59,3 +59,17 @@ $RECYCLE.BIN/
 .Trash-*
 
 
+### https://raw.github.com/github/gitignore/bfcae73085d01fa0cf2af868eaf51c0141ecbb9f/Global/MicrosoftOffice.gitignore
+
+*.tmp
+
+# Word temporary
+~$*.doc*
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
+
