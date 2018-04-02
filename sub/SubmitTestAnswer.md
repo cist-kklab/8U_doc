@@ -4,7 +4,7 @@
 
 ### 操作方法
 
-#### 1. テストの結果登録と個票の作成 機能へ移動 
+#### 1. テストの結果登録と個票の作成 機能へ移動
 
 メニュー画面の `テストの結果登録と個票の作成` をクリックすると、テストの種別の一覧が表示されます。テスト結果を登録したいテスト種別を選択します。
 
@@ -14,7 +14,7 @@
 
 #### 2. テスト種別の選択
 
-テストの結果登録画面が表示されます。テスト結果を登録したい科目の横の `結果登録` ボタンを選んでクリックしてください。 
+テストの結果登録画面が表示されます。テスト結果を登録したい科目の横の `結果登録` ボタンを選んでクリックしてください。
 
 ![科目選択](https://raw.githubusercontent.com/cist-kklab/8U_doc/master/img/SubmitTestAnswer002.png)
 
@@ -67,12 +67,13 @@
 
 数学科目（数的指向、理系1・2、微積1・2）の場合は、テスト結果を下の計算シートで計算し、その結果を結果登録用シートに貼り付けて登録する必要があります。年度ごとにシートは変更されますので、ご注意ください。
 
-- 2017年度
-    - [プレイスメントテスト用計算シート](https://github.com/cist-kklab/8U_doc/raw/master/mathSheet/math_placement.xlsx)
-    - [到達度テスト用計算シートC](https://github.com/cist-kklab/8U_doc/raw/master/mathSheet/matn_achievement_C.xlsx)
-- 2016年度
-    - [プレイスメントテスト用計算シート](https://github.com/cist-kklab/8U_doc/raw/master/mathSheet/math_placement.xlsx)
-    - [到達度テスト用計算シートB](https://github.com/cist-kklab/8U_doc/raw/master/mathSheet/matn_achievement_B.xlsx)
+|年度|プレイスメントテスト用|到達度テスト用|
+|:---|:---|:---|
+|2018| [計算シート：共通](https://github.com/cist-kklab/8U_doc/raw/master/mathSheet/math_placement.xlsx)|[計算シートD](https://github.com/cist-kklab/8U_doc/raw/master/mathSheet/matn_achievement_D.xlsx)|
+|2017| [計算シート：共通](https://github.com/cist-kklab/8U_doc/raw/master/mathSheet/math_placement.xlsx)|[計算シートC](https://github.com/cist-kklab/8U_doc/raw/master/mathSheet/matn_achievement_C.xlsx)|
+|2016| [計算シート：共通](https://github.com/cist-kklab/8U_doc/raw/master/mathSheet/math_placement.xlsx)|[計算シートD](https://github.com/cist-kklab/8U_doc/raw/master/mathSheet/matn_achievement_B.xlsx)|
+
+
 
 下図の様に、黄色のセル部分に計算された内容を、テスト結果の登録用シートに**値をペースト**で貼り付けてください。
 
