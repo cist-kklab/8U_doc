@@ -12,6 +12,6 @@
 
 以下のメールアドレスにご連絡ください。
 
-8大学連携事務局 個票Webシステム担当：`8u@ltvs.uela.cloud`
+8大学連携事務局 個票Webシステム担当：`uela-kiban@googlegroups.com`
 
  
