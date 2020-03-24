@@ -69,12 +69,11 @@
 
 |年度|プレイスメントテスト用|到達度テスト用|
 |:---|:---|:---|
+|2020| [計算シート：共通](https://github.com/cist-kklab/8U_doc/raw/master/mathSheet/math_placement.xlsx)|[計算シートB](https://github.com/cist-kklab/8U_doc/raw/master/mathSheet/matn_achievement_B.xlsx)|
 |2019| [計算シート：共通](https://github.com/cist-kklab/8U_doc/raw/master/mathSheet/math_placement.xlsx)|[計算シートA](https://github.com/cist-kklab/8U_doc/raw/master/mathSheet/matn_achievement_A.xlsx)|
 |2018| [計算シート：共通](https://github.com/cist-kklab/8U_doc/raw/master/mathSheet/math_placement.xlsx)|[計算シートD](https://github.com/cist-kklab/8U_doc/raw/master/mathSheet/matn_achievement_D.xlsx)|
 |2017| [計算シート：共通](https://github.com/cist-kklab/8U_doc/raw/master/mathSheet/math_placement.xlsx)|[計算シートC](https://github.com/cist-kklab/8U_doc/raw/master/mathSheet/matn_achievement_C.xlsx)|
 |2016| [計算シート：共通](https://github.com/cist-kklab/8U_doc/raw/master/mathSheet/math_placement.xlsx)|[計算シートB](https://github.com/cist-kklab/8U_doc/raw/master/mathSheet/matn_achievement_B.xlsx)|
-
-
 
 下図の様に、黄色のセル部分に計算された内容を、テスト結果の登録用シートに**値をペースト**で貼り付けてください。
 
